@@ -32,3 +32,9 @@ Se recomienda crear y configurar un archivo .gitignore antes de hacer el primer 
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+
+3- Revise los archivos subidos en su repositorio de github. ¿Qué archivos
+vé?¿Cuál cree que no hace falta que esté?
+Al tener ya creado un archivo .gitignore solo tengo los archivos necesarios en vez de los archivos .exe creados al ejecutar el archivo tp1_1.c
+
